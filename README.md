@@ -6,4 +6,4 @@ une fenetre s'ouvre avec une grille
 
 les commende:
 clic gauche pour changer l'etat d'une cellule 
-espace pour lancé le program 
+espace pour lancé le programme
